@@ -1,6 +1,6 @@
 # Solheim68
 
-![Solheim68 PCB](https://i.imgur.com/lbFoqf2.png)
+![Solheim68 PCB](https://i.imgur.com/iCpyETy.png)
 This PCB is a direct replacement designed for the VA68M (Mini-USB) from Varmilo. Use this PCB as you wish, the license allows commercial use.  
 Unfortunately it was impossible to support PCB mounted stabilizers on this one.
 
