@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 0,
     "active_layer_preset": "",
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -11,6 +11,7 @@
       "vias": 1.0,
       "zones": 1.0
     },
+    "ratsnest_display_mode": 0,
     "selection_filter": {
       "dimensions": true,
       "footprints": true,
@@ -59,10 +60,13 @@
       36,
       37
     ],
-    "visible_layers": "7ffff_ffffffff"
+    "visible_layers": "007ffff_ffffffff"
   },
   "meta": {
     "filename": "solheim68.kicad_prl",
     "version": 2
+  },
+  "project": {
+    "files": []
   }
 }
